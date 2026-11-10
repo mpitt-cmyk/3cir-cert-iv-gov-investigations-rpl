@@ -1,0 +1,6 @@
+site_name: Certificate IV in Government Investigations (PSP40416) – RPL with 3CIR
+site_description: Certificate IV in Government Investigations (PSP40416) – RPL with 3CIR
+site_url: https://3cir-cert-iv-gov-investigations-rpl.readthedocs.io/
+use_directory_urls: true
+theme:
+  name: mkdocs
